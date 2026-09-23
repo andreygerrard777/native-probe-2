@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rezka Diagnostics",
+    "internalName": "RezkaDiagnostics",
+    "url": "https://github.com/andreygerrard777/nuvio-rezka-native/releases/download/native-probe-2/RezkaDiagnostics.cs3",
+    "version": 1,
+    "apiVersion": 1,
+    "status": 3,
+    "language": "uk",
+    "authors": [
+      "nuvio-uk-providers"
+    ],
+    "description": "Діагностика .cs3 та HTTP. Відеопотоків немає.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "repositoryUrl": "https://github.com/andreygerrard777/nuvio-rezka-native",
+    "fileSize": 8315,
+    "fileHash": "sha256-0b5702ccc7cc4663360f645b850cff191bc2f84733b2b09e1d81bb873a8f2efd"
+  }
+]

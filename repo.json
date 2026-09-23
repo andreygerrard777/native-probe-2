@@ -1,0 +1,8 @@
+{
+  "name": "Nuvio Rezka Native Diagnostics",
+  "description": "Тестовий нативний плагін Rezka для Nuvio Android TV",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/andreygerrard777/nuvio-rezka-native/releases/download/native-probe-2/plugins.json"
+  ]
+}
