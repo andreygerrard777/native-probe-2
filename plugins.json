@@ -2,8 +2,8 @@
   {
     "name": "Rezka Diagnostics",
     "internalName": "RezkaDiagnostics",
-    "url": "https://raw.githubusercontent.com/andreygerrard777/native-probe-2/main/RezkaDiagnostics.cs3",
-    "version": 2,
+    "url": "https://github.com/andreygerrard777/nuvio-rezka-native/releases/download/native-probe-4/RezkaDiagnostics.cs3",
+    "version": 3,
     "apiVersion": 1,
     "status": 3,
     "language": "uk",
@@ -16,7 +16,7 @@
       "TvSeries"
     ],
     "repositoryUrl": "https://github.com/andreygerrard777/nuvio-rezka-native",
-    "fileSize": 7978,
-    "fileHash": "sha256-8bb2624d9abc04aa8c92e76e3693edb05d1321490a50407aef63d6db2aa7f27b"
+    "fileSize": 15705,
+    "fileHash": "sha256-675afa1927842bed17778ee59f2840777734d5251e61b304a04ee2d1d2dc2076"
   }
 ]
